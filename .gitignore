@@ -1,0 +1,11 @@
+*.jpg
+*.png
+*.svg
+*.jpeg
+*.jfif
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+._.DS_Store
